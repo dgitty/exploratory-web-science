@@ -1,7 +1,7 @@
 # exploratory-web-science
 Exploring the world wide web using python
 
-Note: Each section corresponds to a subfolder. Some data visualizations were created using R. Content derived from coursework completed during grad school. A lot of content hsd been intentionally excluded as to not provide the answer to the public.
+Note: Each section corresponds to a subfolder. Some data visualizations were created using R. Content derived from coursework completed during grad school. A lot of content has been intentionally excluded as to not provide the answer to the public.
 
 
 ## Web Crawl
