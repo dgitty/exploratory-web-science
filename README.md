@@ -10,5 +10,5 @@ Web crawls through the internet to find links to PDFs.
 python3 findPDFs.py https://en.wikipedia.org/wiki/List_of_apple_cultivars
 ```
 
-![findPDFs example output](findpdf_output_wikiapple.PNG)
+![findPDFs example output](images/findpdf_output_wikiapple.PNG)
 
