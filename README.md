@@ -156,5 +156,3 @@ python3 q345_twitterdata.py
 
 ![JPEG using MDS](clustering/twittermds2d.jpeg)
 
-
-## Classify
